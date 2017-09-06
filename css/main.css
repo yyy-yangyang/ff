@@ -1,0 +1,59 @@
+.box {
+	background: #6CAFFD;
+    height: auto;
+    padding-bottom: 100px;
+}
+#Search{
+	margin-top: 10px;
+}
+.box .container .text-right a:hover{
+    text-decoration: none;
+}
+.box .container .text-right a{
+	border:1px solid #FFF;
+	border-radius: 7px;
+	padding: 6px;
+	color: #fff;
+	text-decoration: none;
+}
+.box .container .text-center{
+	color: #fff;
+}
+
+.box .container .row img:hover{
+	-webkit-filter: blur(3px);
+    filter: blur(3px);
+    -o-filter:blur(3px);
+    -ms-filter:blur(3px);
+    transition: all 2s ease;
+	-ms-transition:all 2s ease;
+	-o-transition:all 2s ease;
+	-webkit-transition:all 2s ease;
+}
+.box-one {
+	background: #fff;
+	height: auto;
+	padding-bottom: 70px;
+}
+#caption-1{
+	background: #FFF;
+	width:330px;
+	height: 220px;
+	box-shadow: 1px 2px 5px  #000;
+	border-top: 5px solid #6CAFFD;
+}
+.box-two{
+	padding:15px;
+}
+.box-three{
+    background: #6CAFFD;
+    height: auto;
+    padding-bottom:30px;
+}
+.text-justify{
+	margin-left: 20px;
+}
+.text-justify a{
+	color: #000;
+	font-family: "宋体";
+}
